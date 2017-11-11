@@ -33,6 +33,10 @@
     "react-native-video": "^2.0.0",
     "react-navigation": "^1.0.0-beta.15"
   },
+  "repository" : { 
+    "type" : "git",
+    "url" : "https://github.com/loganhasty/SugarData.git"
+  },
   "rnpm": {
     "assets": [
       "assets/fonts/Roboto"
